@@ -1,0 +1,10 @@
+# dataset path
+train: D:\xianyu\yolov8-main-huiyi\datasets\images\train
+val: D:\xianyu\yolov8-main-huiyi\datasets\images\val
+test: D:\xianyu\yolov8-main-huiyi\datasets\images\test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['car']
